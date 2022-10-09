@@ -15,6 +15,9 @@
     <?php
        include "navbar.php";
     ?>
+
+    <div class="container-fluid">
+
        <h1 class="abc"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
 
     <p class="border bg-white">
@@ -22,6 +25,7 @@
         วิชาอินเตอร์เน็ตและการสร้างเว็บไซต์ โรงเรียนฝึกอาชีพ
         กรุงเทพมหานคร (ดินแดง1)
     </p>
+    </div>
 
     <?php
       include "hello.php";
